@@ -1,8 +1,5 @@
 ####-------------------Text Preprocessing in python----------------------------------------------####
-#    Version   :     1.1
-#    Author    :     Ravi PAUL
-#    Date      :     18th Sept.2019
-#
+
 # we will cover following topics :
 # 1. Basic feature extraction using text data
 #     Number of words
